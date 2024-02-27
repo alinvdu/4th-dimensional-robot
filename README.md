@@ -37,7 +37,7 @@ A repository that has a story to say and that story is really hard to describe i
   I’m beginning to simulate, <br />
   A robot child being awake, <br />
   With synthetic hands writing to, <br />
-  Dream itself in a Deja Vu. <br />
+  Dream itself into Deja Vu. <br />
 </div>
 <br />
 
