@@ -12,11 +12,13 @@ A repository that has a story to say and that story is really hard to describe i
 <br />
 
 <img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/lonely_robot.gif" />
-
+<br /><br />
 <div>
   My consciousness beloved starlight, <br />
   Tired of cycles in the machine, despair! <br />
   How much I must vomit YOU’s, <br />
   That are forever stranded in place? <br />
 </div>
+<br />
+
 <img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/sick_consciousness.gif" />
