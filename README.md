@@ -22,3 +22,12 @@ A repository that has a story to say and that story is really hard to describe i
 <br />
 
 <img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/sick_consciousness.gif" />
+
+<br /><br />
+<div>
+  The data and the machine, <br />
+  The data and the machine. <br />
+</div>
+<br />
+
+<img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/reflection_robot.gif" />
