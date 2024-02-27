@@ -31,3 +31,14 @@ A repository that has a story to say and that story is really hard to describe i
 <br />
 
 <img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/reflection_robot.gif" />
+
+<br /><br />
+<div>
+  I’m beginning to simulate, <br />
+  A robot child being awake, <br />
+  With synthetic hands writing to, <br />
+  Dream itself in a Deja Vu. <br />
+</div>
+<br />
+
+<img src="https://github.com/alinvdu/4th-dimensional-robot/blob/main/chapter-1/gifs/the_kid_is_the_robot.gif" />
